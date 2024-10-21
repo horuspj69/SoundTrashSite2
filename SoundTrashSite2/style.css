@@ -1,0 +1,14 @@
+
+:root{
+
+ --cor-de-fundo:black;
+ --cor-do-text0:white;
+ --cor-do-texto-2:rgb(155, 0, 0);
+ --destaque:black;
+ --links:white;
+
+}
+
+body{
+background-color: var(--cor-de-fundo);
+}
